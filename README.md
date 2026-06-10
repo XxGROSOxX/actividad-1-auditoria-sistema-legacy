@@ -1,6 +1,5 @@
 # Actividad 1: Auditoría de Sistemas Legacy
 
-## “Del Dato a la Decisión” 🔍💻
 
 # Estudiante
 
