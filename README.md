@@ -638,4 +638,4 @@ De esta manera, la empresa puede pasar del simple registro de datos a la toma de
 # 22. Enlace del Repositorio
 
 **URL del repositorio público:**
-Pegar aquí el enlace del repositorio de GitHub.
+https://github.com/XxGROSOxX/actividad-1-auditoria-sistema-legacy
